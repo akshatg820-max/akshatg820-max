@@ -125,7 +125,6 @@ My goal isn't just to solve problems — it's to understand the underlying patte
 ---
 
 ## `06` — GitHub Activity
-## `06` — GitHub Activity
 
 <div align="center">
 
