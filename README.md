@@ -1,122 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=180&section=header&text=AKSHAT%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:111827,100:0ea5e9&height=200&section=header&text=AKSHAT%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-</div>
+<br>
 
-<div align="center">
+# 👋 Hi, I'm Akshat Gupta
 
-### `// learning deeply • building practically • improving consistently`
+### `BCA AI & ML Student` · `C++ & Python` · `DSA` · `Machine Learning`
 
-[![GitHub](https://img.shields.io/badge/GitHub-akshatg820--max-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/akshatg820-max)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gupta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akshat-gupta-6106b237b/)
+**Learning deeply. Building practically. Improving consistently.**
+
+<br>
+
+<a href="https://github.com/akshatg820-max">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/akshat-gupta-6106b237b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# `01` — WHO AM I?
+## `01` — About Me
 
 I'm **Akshat Gupta**, a BCA student specializing in **Artificial Intelligence & Machine Learning**.
 
-I'm currently building my foundation across:
+I enjoy learning by building — writing code, solving problems, experimenting with ideas, and turning concepts into practical applications.
 
-```text
-AI / ML
-   ↓
-Programming
-   ↓
-Data Structures & Algorithms
-   ↓
-Real-world Projects
-```
+My current focus is on:
 
-I like learning by **actually building things** — experimenting with ideas, solving problems, breaking things, fixing them, and gradually turning rough concepts into usable software.
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🤖 Learning and applying **Machine Learning & AI**
+- 💻 Improving my **C++ and Python** skills
+- 🚀 Building practical software projects
 
-Currently, I'm focused on becoming stronger at **DSA, Python, Machine Learning and AI-powered application development**.
+> **Learn → Build → Break → Fix → Improve**
 
 ---
 
-# `02` — CURRENTLY
+## `02` — At a Glance
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🎓  BCA — Artificial Intelligence & Machine Learning       │
-│                                                              │
-│  🧠  Learning      DSA • ML • AI                            │
-│                                                              │
-│  💻  Coding        C++ • Python                             │
-│                                                              │
-│  🚀  Building      AI-powered applications                  │
-│                                                              │
-│  🎯  Goal          Become a strong AI/ML developer          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+| Area | Focus |
+|---|---|
+| 🎓 Education | BCA — Artificial Intelligence & Machine Learning |
+| 💻 Programming | C++, Python |
+| 🧩 Problem Solving | Data Structures & Algorithms |
+| 🤖 AI / ML | Machine Learning, Artificial Intelligence |
+| 🛠️ Tools | Git, GitHub, VS Code |
+| 📚 Practice | LeetCode + DSA |
+| 🚀 Current Goal | Become a strong AI/ML developer |
 
 ---
 
-# `03` — WHAT I'M BUILDING
+## `03` — What I'm Building
 
-## 🤖 AI Resume Analyzer
+### 🤖 AI Resume Analyzer
 
-> **Turn a resume into actionable career intelligence.**
+**AI-powered resume analysis dashboard built with Python and Streamlit.**
 
-An AI-powered resume analysis dashboard built with **Python + Streamlit**.
+The project analyzes resumes for **skills, structure, ATS-style readiness, job-description matching, readability, and practical improvement opportunities**, with optional Google Gemini-powered review. :contentReference[oaicite:1]{index=1}
 
-It goes beyond simply reading a resume — it analyzes structure, skills, ATS-style signals, readability, job-description matching and improvement opportunities.
+### ✨ Highlights
 
-### What it can do
+- 📄 PDF & DOCX resume analysis
+- 🧠 Skill detection and categorization
+- 📊 ATS-style resume analysis
+- 🎯 Job description matching
+- 🔍 Skill & keyword overlap analysis
+- 🤖 Optional Gemini AI review
+- 📝 Resume improvement recommendations
+- 📦 JSON report export
+- 🎨 Interactive dashboard UI
 
-* 📄 Analyze PDF & DOCX resumes
-* 🧠 Detect technical and professional skills
-* 📊 Generate ATS-style analysis
-* 🎯 Match resumes against job descriptions
-* 🔍 Identify missing / relevant skills
-* 🤖 Generate optional Gemini-powered feedback
-* ✨ Provide practical improvement recommendations
-* 📦 Export analysis as JSON
-* 🎨 Modern interactive dashboard
+### 🛠️ Built With
 
-### Built with
-
-`Python` `Streamlit` `PyPDF` `python-docx` `Google Gemini` `Git`
+`Python` `Streamlit` `PyPDF` `python-docx` `python-dotenv` `Google Gemini`
 
 <div align="center">
 
-**[→ View Project](https://github.com/akshatg820-max/ai-resume-analyzer)**
-**[→ Live Demo](https://akshat-resume-analyzer.streamlit.app/)**
+<a href="https://github.com/akshatg820-max/ai-resume-analyzer">
+  <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# `04` — DSA / PROBLEM SOLVING
+## `04` — DSA & Problem Solving
 
-```text
-         ┌─────────────────────┐
-         │   PROBLEM SOLVING   │
-         └──────────┬──────────┘
-                    ↓
-              Data Structures
-                    ↓
-               Algorithms
-                    ↓
-              Pattern Thinking
-                    ↓
-             Efficient Solutions
-```
+I regularly practice **Data Structures & Algorithms** on LeetCode, primarily using **C++**.
 
-I practice **Data Structures & Algorithms** primarily with **C++**, using LeetCode to improve algorithmic thinking and problem-solving.
+My goal isn't just to solve problems — it's to understand the underlying patterns, improve algorithmic thinking, and write better solutions.
 
-My solutions are organized through **LeetHub**, allowing my coding journey to live alongside my development work.
+### Current Focus
 
-> `One problem at a time. One concept at a time.`
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Searching` · `Sorting` · `Dynamic Programming`
+
+> **One problem at a time. One concept at a time.**
 
 ---
 
-# `05` — TECH STACK
+## `05` — Tech Stack
 
 <div align="center">
 
@@ -124,148 +110,125 @@ My solutions are organized through **LeetHub**, allowing my coding journey to li
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
-### Development
+<br><br>
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
 ### Core Areas
 
-```text
-C++
-Python
-Data Structures & Algorithms
-Object-Oriented Programming
-Machine Learning
-Artificial Intelligence
-Git & GitHub
-```
+`C++` · `Python` · `DSA` · `OOP` · `Machine Learning` · `Artificial Intelligence` · `Git & GitHub`
 
 ---
 
-# `06` — GITHUB ACTIVITY
+## `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatg820-max&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshatg820-max&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatg820-max&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatg820-max&layout=compact&hide_border=true&theme=transparent" width="40%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=akshatg820-max&theme=transparent&hide_border=true" width="70%" />
 
 </div>
+
+---
+
+## `07` — My Development Journey
+
+<div align="center">
+
+### LEARN
+↓
+### EXPERIMENT
+↓
+### BUILD
+↓
+### DEBUG
+↓
+### IMPROVE
+↓
+### REPEAT
+
+</div>
+
+I'm focused on building a strong foundation first and then gradually moving toward more advanced **AI/ML systems and real-world applications**.
+
+---
+
+## `08` — Roadmap
+
+### ⚡ Now
+
+- [x] Build practical Python projects
+- [x] Start building AI-powered applications
+- [x] Practice DSA with C++
+- [x] Develop an AI Resume Analyzer
+
+### 🚀 Next
+
+- [ ] Strengthen DSA fundamentals
+- [ ] Deepen Machine Learning concepts
+- [ ] Build more AI/ML projects
+- [ ] Improve software engineering practices
+- [ ] Contribute to open-source projects
+
+### 🎯 Long Term
+
+- [ ] Become a strong AI/ML developer
+- [ ] Build useful real-world products
+- [ ] Work on meaningful engineering problems
+
+---
+
+## `09` — Philosophy
+
+<div align="center">
+
+### `"Don't just learn technology. Build with it."`
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=akshatg820-max&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+**Curiosity → Learning → Building → Failure → Improvement**
 
 </div>
 
 ---
 
-# `07` — MY DEVELOPMENT LOOP
-
-```text
-┌──────────────┐
-│    LEARN     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   EXPERIMENT │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    BUILD     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    BREAK     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    DEBUG     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   IMPROVE    │
-└──────┬───────┘
-       │
-       └──────────────→ repeat
-```
-
----
-
-# `08` — ROADMAP
-
-### `NOW`
-
-* [x] Build practical Python projects
-* [x] Start AI/ML project development
-* [x] Practice DSA with C++
-* [x] Build an AI Resume Analyzer
-* [x] Document projects on GitHub
-
-### `NEXT`
-
-* [ ] Strengthen DSA fundamentals
-* [ ] Deepen Machine Learning concepts
-* [ ] Build more AI-powered applications
-* [ ] Explore advanced AI/ML workflows
-* [ ] Contribute to open source
-
-### `LONG TERM`
-
-* [ ] Become a strong software + AI/ML developer
-* [ ] Work on meaningful real-world problems
-* [ ] Build projects people actually use
-
----
-
-# `09` — PHILOSOPHY
-
-<div align="center">
-
-### `Don't just consume technology. Build with it.`
-
-<br>
-
-`Curiosity → Learning → Building → Failure → Improvement`
-
-</div>
-
----
-
-# `10` — LET'S CONNECT
+## `10` — Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/akshatg820-max">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akshat-gupta-6106b237b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akshatg820-max&style=flat-square&color=38bdf8&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=akshatg820-max&style=flat-square&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-### `Thanks for stopping by 👋`
+### ⭐ Thanks for visiting!
 
-**Keep learning. Keep building. Keep shipping.**
+`Learning • Building • Improving`
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:111827,100:0ea5e9&height=110&section=footer" width="100%"/>
 
 </div>
