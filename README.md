@@ -125,16 +125,45 @@ My goal isn't just to solve problems — it's to understand the underlying patte
 ---
 
 ## `06` — GitHub Activity
+## `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatg820-max&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatg820-max&layout=compact&hide_border=true&theme=transparent" width="40%" />
+<a href="https://github.com/akshatg820-max">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=akshatg820-max&theme=transparent&hide_border=true" width="70%" />
+<table>
+<tr>
+<td align="center">
+<strong>📦 Public Repositories</strong><br>
+2+
+</td>
+
+<td align="center">
+<strong>💻 Primary Languages</strong><br>
+C++ · Python
+</td>
+
+<td align="center">
+<strong>🤖 Focus</strong><br>
+AI · ML · DSA
+</td>
+
+<td align="center">
+<strong>🛠️ Tools</strong><br>
+Git · GitHub · VS Code
+</td>
+</tr>
+</table>
+
+<br>
+
+### Building in Public
+
+`Learn` → `Code` → `Build` → `Solve` → `Improve`
 
 </div>
 
